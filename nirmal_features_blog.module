@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Nirmal features blog feature.
+ */
+
+include_once 'nirmal_features_blog.features.inc';
